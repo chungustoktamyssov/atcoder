@@ -1,10 +1,11 @@
 n = int(input())
-
 s = ''
 tooLong = False
+
 for i in range(n):
     c, l = input().split()
     l = int(l)
+
     if tooLong: pass
     else:
         if l + len(s) > 100:

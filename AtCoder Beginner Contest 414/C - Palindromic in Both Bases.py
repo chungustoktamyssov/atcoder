@@ -1,3 +1,5 @@
+# this tle idk why its o(sqrt(n) * log(n)) --> im a pig
+
 a = int(input())
 n = int(input())
 ans = 0
